@@ -1,0 +1,15 @@
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.csproj.AssemblyReference.cache
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.AssemblyInfoInputs.cache
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.AssemblyInfo.cs
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.csproj.CoreCompileInputs.cache
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\bin\Debug\net6.0\DomZad6.exe
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\bin\Debug\net6.0\DomZad6.deps.json
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\bin\Debug\net6.0\DomZad6.runtimeconfig.json
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\bin\Debug\net6.0\DomZad6.dll
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\bin\Debug\net6.0\DomZad6.pdb
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.dll
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\refint\DomZad6.dll
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.pdb
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\DomZad6.genruntimeconfig.cache
+C:\Users\Oleg1417\Desktop\C#_DomZad_6\DomZad6\obj\Debug\net6.0\ref\DomZad6.dll
